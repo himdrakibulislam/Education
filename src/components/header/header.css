@@ -1,0 +1,10 @@
+.headr-style nav a {
+    text-decoration: none;
+    color: aliceblue;
+    margin-right: 60px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.headr-style nav a:hover {
+    background-color: rgba(165, 4, 4, 0.692);
+}
