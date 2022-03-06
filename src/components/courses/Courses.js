@@ -4,7 +4,7 @@ import Course from '../course/Course';
 const Courses = () => {
     const [courses,setCourse] = useState([]);
     useEffect(()=>{
-        fetch('./course.json')
+        fetch('https://himdrakibulislam.github.io/jsonfile/course.json')
         .then(res =>res.json())
         .then(data => setCourse(data))
     },[])

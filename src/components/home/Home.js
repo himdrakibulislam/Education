@@ -4,7 +4,7 @@ import Catagory from '../catagory/Catagory';
 const Home = () => {
     const [catagory,setCatagory] = useState([]);
     useEffect(()=>{
-        fetch('./catagory.json')
+        fetch('https://himdrakibulislam.github.io/jsonfile/catagory.json')
         .then(res => res.json())
         .then(data => setCatagory(data))
     },[])
