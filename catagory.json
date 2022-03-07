@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "ct":"Arts and Humanitics",
+        "image":"http://www.ansonika.com/udema/img/course_1.jpg"
+    },
+    {
+        "id":"2",
+        "ct":"Engineering",
+        "image":"http://www.ansonika.com/udema/img/course_2.jpg"
+    },
+    {
+        "id":"3",
+        "ct":"Architecture",
+        "image":"http://www.ansonika.com/udema/img/course_3.jpg"
+    },
+    {
+        "id":"4",
+        "ct":"Science and Biology",
+        "image":"http://www.ansonika.com/udema/img/course_4.jpg"
+    },
+    {
+        "id":"5",
+        "ct":"Law and Criminology",
+        "image":"http://www.ansonika.com/udema/img/course_5.jpg"
+    },
+    {
+        "id":"6",
+        "ct":"Medical",
+        "image":"http://www.ansonika.com/udema/img/course_6.jpg"
+    }
+]
